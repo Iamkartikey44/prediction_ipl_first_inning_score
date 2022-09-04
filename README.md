@@ -32,10 +32,10 @@ Prepare your dataset:
     8. Deploy App
 ## Data Source
 
-[IPL Dataset] (https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
+View the Dataset :(https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 ## Demo
 
-[Click Here To View App] (https://kartikey.pythonanywhere.com/)
+Click Here To View App :(https://kartikey.pythonanywhere.com/)
 
 ![logo](https://github.com/Iamkartikey44/prediction_ipl_first_inning_score/blob/main/ipl.jpg?raw=true)
 
